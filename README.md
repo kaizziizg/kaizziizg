@@ -14,7 +14,7 @@
         Web front-end: React.js 
         Web back-end: Golang
         cloud service: Google Cloud (CloudRun, CloudSQL)
-  * [PixelArtGAN](https://github.com/kaizziizg/pixel-art-gan-2)(進行中)
+  * [PixelArtGAN](https://github.com/kaizziizg/pixel-art-gan-2)(On developing)
         
         Pixel art character generator of GAN
         Web front-end: pure HTML Canvas/PlayCanvas
