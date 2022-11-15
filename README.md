@@ -8,13 +8,13 @@
 - 📄 Know about my experiences [kaizziizg.github.io](kaizziizg.github.io)
 
 - 🔭 Web Project
-  * [PCS DataViewer](https://kaizziizg.github.io/PCS-DataViewer/)
+  * [PCS DataViewer](https://kaizziizg.github.io/PCS-DataViewer/) 
         
         Data visualization of LeagueOfLegend tournament data
         Web front-end: React.js 
         Web back-end: Golang
         cloud service: Google Cloud (CloudRun, CloudSQL)
-  * [PixelArtGAN](https://github.com/kaizziizg/pixel-art-gan-2)(On developing)
+  * [PixelArtGAN](https://github.com/kaizziizg/pixel-art-gan-2)(On developing) [Demo](https://kaizziizg.github.io/pixel-art-gan-2) 
         
         Pixel art character generator of GAN
         Web front-end: pure HTML Canvas/PlayCanvas
