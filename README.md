@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kaizz1129@gmail.com**
 
-- 📄 Know about my experiences [kaizziizg.github.io](kaizziizg.github.io)
+- 📄 Know about my experiences [kaizziizg.github.io](https://kaizziizg.github.io)
 
 - 🔭 Web Project
   * [PCS DataViewer](https://kaizziizg.github.io/PCS-DataViewer/) 
