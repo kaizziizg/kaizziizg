@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kaizz</h1>
-<h3 align="center">A passionate Full Stack developer from Taiwan</h3>
+<h3 align="center">a full-stack developer from Taiwan~</h3>
 
-- 📝 I regularly write articles on [https://hackmd.io/@Kaizz](https://hackmd.io/@Kaizz)
+- 📝 I regularly write articles on [https://gnar.cc/](https://gnar.cc/)
 
-- 📫 How to reach me **kaizz1129@gmail.com**
-
-- 📄 Know about my experiences [kaizziizg.github.io](https://kaizziizg.github.io)
+- 📫 How to reach me **kai@mixlab.cc**
 
 - 🔭 Web Project
+  * [NMIXX cherring guide](https://nmixx.fans/)
+
+  		
   * [PCS DataViewer](https://kaizziizg.github.io/PCS-DataViewer/) 
         
         Data visualization of LeagueOfLegend tournament data
