@@ -6,9 +6,12 @@
 - 📫 How to reach me **kai@mixlab.cc**
 
 - 🔭 Web Project
-  * [NMIXX cherring guide](https://nmixx.fans/)
+  * [KPOP cherring guide](https://nmixx.fans/)
 
-  		
+		This is a full-stack project built with Next.js.
+		Since both the domain and site protection are managed through Cloudflare, I explored and integrated their deployment ecosystem as well.
+		The project utilizes D1 as the database, KV for caching, and R2 as an S3-like file storage service.
+		Throughout the development, I also conducted traffic analysis and performance optimization to improve user experience and overall site efficiency.
   * [PCS DataViewer](https://kaizziizg.github.io/PCS-DataViewer/) 
         
         Data visualization of LeagueOfLegend tournament data
@@ -27,7 +30,7 @@
 
 <h1 align="left">Connect with me</h1>
 <p align="left">
-<a href="https://linkedin.com/in/clivefang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clivefang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clivefang" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kaizz1129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaizz1129" height="30" width="40" /></a>
 </p>
 
